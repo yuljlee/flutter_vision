@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "473128152892",
+    "firebase_url": "https://ml-toy.firebaseio.com",
+    "project_id": "ml-toy",
+    "storage_bucket": "ml-toy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473128152892:android:25a60f8e751127792bf839",
+        "android_client_info": {
+          "package_name": "app.iclever.flutter_vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473128152892-ubtas0evdlg369iffvvj4civg8a4gd9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhbf2xEOswYxmi-EvrCVAzBF8fuXYR8Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473128152892-ubtas0evdlg369iffvvj4civg8a4gd9g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "473128152892-oo7gktpfd15fquv37nu6sk63db2kk6lj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.iclever.flutterVision"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473128152892:android:6c05ce890e654d442bf839",
+        "android_client_info": {
+          "package_name": "app.iclever.object_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473128152892-ubtas0evdlg369iffvvj4civg8a4gd9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhbf2xEOswYxmi-EvrCVAzBF8fuXYR8Zs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473128152892-ubtas0evdlg369iffvvj4civg8a4gd9g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "473128152892-oo7gktpfd15fquv37nu6sk63db2kk6lj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.iclever.flutterVision"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
